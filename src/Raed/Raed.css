@@ -1,0 +1,13 @@
+form{
+background-color: #FFCC70;
+border-radius: 10px;
+border: 1px solid;
+width: 300px;
+margin: 50px 500px 0px 500px;
+box-shadow: 5px 10px #888888;
+
+}
+button{
+    background-color: #CA4E79;
+    width: 300px;
+}
